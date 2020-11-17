@@ -1,2 +1,2 @@
 ovo je ispravni reultat: 12
-Nije
+Nije.
